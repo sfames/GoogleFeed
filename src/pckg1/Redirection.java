@@ -26,7 +26,7 @@ public class Redirection {
 	private static MissingCellPolicy xRow;
 	public static WebDriver driver = null;
 	public static final String Path_TestData = "D:\\Suresh Kadara\\Projects\\BannerBuzz\\Automation\\Google Feed\\Gfeed Import files\\";
-	public static final String File_TestData = "GfeedUS2811UK.xlsx";
+	public static final String File_TestData = "GfeedUS02012024.xlsx";
 	private static XSSFSheet ExcelWSheet;
 	private static XSSFWorkbook ExcelWBook;
 	private static XSSFCell Cell;
